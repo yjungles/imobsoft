@@ -1,6 +1,18 @@
 # Vistasoft
 Projeto de desenvolvimento para o teste de Desenvolvedor Back End da empresa Vista Soft
 
+### Instalação
+- Clonar esse repositório dentro de uma pasta `/vistasoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
+
+#### Banco de dados
+- Criar uma database chamada `vistasoft`
+- Criar tabelas de acordo com o `dump.sql` que se encontra na raiz do projeto
+- Configurar credenciais no arquivo `/app/config/database.php` do projeto
+
+Acessar através do endereço local http://localhost/vistasoft/index
+
+------
+
 ### Funcionalidades
 - Cadastro de clientes;
 - Cadastro de imóveis;
@@ -29,14 +41,3 @@ Projeto de desenvolvimento para o teste de Desenvolvedor Back End da empresa Vis
 ### Padrões utilizados
 - MVC básico
 - PDO
-
-### Instalação
-- Clonar esse repositório dentro de uma pasta `/vistasoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
-
-#### Banco de dados
-- Criar uma database chamada `vistasoft`
-- Criar tabelas de acordo com o `dump.sql` que se encontra na raiz do projeto
-- Configurar credenciais no arquivo `/app/config/database.php` do projeto
-
-Acessar através do endereço local http://localhost/vistasoft/index
-
