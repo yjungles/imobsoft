@@ -30,10 +30,10 @@ Projeto de desenvolvimento para o teste de Desenvolvedor Back End da empresa Vis
 - MVC básico
 - PDO
 
-###Instalação
+### Instalação
 - Clonar esse repositório dentro de uma pasta `/vistasoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
 
-####Banco de dados
+#### Banco de dados
 - Criar uma database chamada `vistasoft`
 - Criar tabelas de acordo com o `dump.sql` que se encontra na raiz do projeto
 - Configurar credenciais no arquivo `/app/config/database.php` do projeto
