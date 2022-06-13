@@ -1,15 +1,15 @@
-# Vistasoft
-Projeto de desenvolvimento para o teste de Desenvolvedor Back End da empresa Vista Soft
+# imob soft
+Projeto de desenvolvimento PHP com PDO simulando um sistema imobiliário imob soft
 
 ### Instalação
-- Clonar esse repositório dentro de uma pasta `/vistasoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
+- Clonar esse repositório dentro de uma pasta `/imobsoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
 
 #### Banco de dados
-- Criar uma database chamada `vistasoft`
+- Criar uma database chamada `imobsoft`
 - Criar tabelas de acordo com o `dump.sql` que se encontra na raiz do projeto
 - Configurar credenciais no arquivo `/app/config/database.php` do projeto
 
-Acessar através do endereço local http://localhost/vistasoft/index
+Acessar através do endereço local http://localhost/imobsoft/index
 
 ------
 
