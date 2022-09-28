@@ -1,5 +1,5 @@
-# imob soft
-Projeto de desenvolvimento PHP com PDO simulando um sistema imobiliário imob soft
+# ImobSoft
+> Projeto de desenvolvimento de um sistema imobiliário como nome fictício ImobSoft, com o objetivo de demonstrar o funcionamento de CRUDs simples em PHPOO utilizando PDO como meio de conectar ao banco de dados.
 
 ### Instalação
 - Clonar esse repositório dentro de uma pasta `/imobsoft` dentro da pasta www do servidor local Wamp, Lamp ou semelhantes.
